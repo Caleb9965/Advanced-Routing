@@ -1,2 +1,3 @@
 # Advanced-Routing
-This will serve as the home for all updates and pushed configs for my advanced routing lab.
+This will serve as the home for all updates and pushed configs for my advanced routing lab. Below will have listed dates of when things are pushed.
+6/20 - Base config/OSPF configurations
